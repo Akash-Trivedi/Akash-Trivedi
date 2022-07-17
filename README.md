@@ -1,4 +1,4 @@
 # Akash Trivedi
 
-FLOWCHART LR
+flowchart LR
 id
