@@ -1,4 +1,4 @@
-# Akash Trivedi &#9835; &#9749; 💻
+# Akash Trivedi &#9835; 💻 &#9749; 
 
 <img src='https://raw.githubusercontent.com/Akash-Trivedi/Akash-Trivedi/main/linkedincover-4.jpeg'/>
 
@@ -52,3 +52,14 @@ I am Akash Trivedi, a full-stack web developer and my current stack is MERN. I h
 
 <img src='https://img.shields.io/static/v1?style=flat&label=Db&logo=mysql&message=MySQL&color=0A66C2&logoColor=white' style='padding:2px'/>
 </p>
+
+<table>
+</table>
+
+<a>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Trivedi&langs_count=10&layout=compact&hide=php'/>
+</a>
+
+<a>
+<img src='https://github-readme-stats.vercel.app/api?username=Akash-Trivedi&count_private=true&show_icons=true&title_color=0A66C2&text_color=0A66C2'/>
+</a>
