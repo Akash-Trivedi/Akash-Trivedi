@@ -56,10 +56,6 @@ I am Akash Trivedi, a full-stack web developer and my current stack is MERN. I h
 <table>
 </table>
 
-<a>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Trivedi&langs_count=10&layout=compact&hide=php'/>
-</a>
+<img src='https://github-readme-stats.vercel.app/api?username=Akash-Trivedi&count_private=true&show_icons=true&title_color=ECF0F1&text_color=fff&bg_color=0d1117&icon_color=F1C40F' style='width:80%'/>
 
-<a>
-<img src='https://github-readme-stats.vercel.app/api?username=Akash-Trivedi&count_private=true&show_icons=true&title_color=0A66C2&text_color=0A66C2'/>
-</a>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Trivedi&langs_count=10&layout=compact&hide=php&bg_color=0d1117&title_color=ECF0F1&text_color=fff' style='width:80%'/>
