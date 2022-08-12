@@ -1,0 +1,16 @@
+creating badge
+> https://img.shields.io/static/v1?
+link: 
+
+query
+    label=string
+    message=string
+    color(right part background)=hexa/primary
+    style=plastic/flat/flat-square/for-the-badge/social
+    logo
+    logoColor(color of the logo)=
+    logoWidth(horizontal spacing)=
+    labelColor(left part background)=
+
+creating header image
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
