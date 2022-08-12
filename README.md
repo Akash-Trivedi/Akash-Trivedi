@@ -1,5 +1,5 @@
 # Akash Trivedi
-[![Header](https://raw.githubusercontent.com/Akash-Trivedi/Akash-Trivedi/linkedincover-4.jpeg "Header")]()
+[![Header](https://raw.githubusercontent.com/Akash-Trivedi/Akash-Trivedi/main/linkedincover-4.jpeg "Header")]()
 
 
 # Hey, Folks! <img  src="https://raw.githubusercontent.com/Akash-Trivedi/Akash-Trivedi/master/wave.gif" width="30px" height="30px" /> 
