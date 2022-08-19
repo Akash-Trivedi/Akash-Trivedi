@@ -67,6 +67,8 @@ I am Akash Trivedi, a full-stack web developer and my current stack is MERN. I h
 
 </p>
 
+## &#128202; Stats
+
 <p align='center'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Trivedi&langs_count=10&layout=compact&hide=php&bg_color=0d1117&title_color=ECF0F1&text_color=fff'  style='width:40%;'/>
 <img src='https://github-readme-stats-georgedong32.vercel.app/api?username=Akash-Trivedi&bg_color=0d1117&title_color=ECF0F1&text_color=fff&show_icons=true&count_private=reu&icon_color=F1C40F' style='width:55%;'/>
