@@ -42,7 +42,7 @@ I am Akash Trivedi, a full-stack web developer and my current stack is MERN. I h
 
 <!-- extraas -->
 <div align='center'>
-    <img src='https://img.shields.io/static/v1?style=flat&label=Utility&logo=firebase&message=Firebase&color=feca2a' style='padding:2px;margin:2px'/>
+    <img src='https://img.shields.io/static/v1?style=flat&label=Cloud&logo=firebase&message=Firebase&color=feca2a' style='padding:2px;margin:2px'/>
     <!-- databases -->
     <img src='https://img.shields.io/static/v1?style=flat&label=Db&logo=mongodb&message=MongoDb&color=00684a' style='padding:2px;margin:2px'/>
     <img src='https://img.shields.io/static/v1?style=flat&label=Db&logo=mysql&message=MySQL&color=3e6e93&logoColor=white' style='padding:2px;margin:2px'/>
