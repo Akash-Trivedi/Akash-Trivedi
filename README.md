@@ -1,10 +1,10 @@
 # Akash Trivedi &#9835; 💻 &#9749; 
 
-<img src='https://raw.githubusercontent.com/akashtrivedig/akashtrivedig/main/linkedincover-5.png'/>
+<img src='https://raw.githubusercontent.com/akashtrivedig/Akash-Trivedi/main/linkedincover-5.png'/>
 
 
 <h2>
-Hey, Folks! <img src='https://raw.githubusercontent.com/akashtrivedig/akashtrivedig/master/wave.gif' width="30px" height="30px" /> 
+Hey, Folks! <img src='https://raw.githubusercontent.com/akashtrivedig/Akash-Trivedi/main/wave.gif' width="30px" height="30px" /> 
 </h2>
 
 I am Akash Trivedi, a full-stack web developer and my current stack is MERN. I have prevously worked in Django. I am from &#128205; India.
